@@ -1,7 +1,6 @@
 # Sprawozdanie - Zadanie 1 (Część Obowiązkowa)
 
 **Autor:** Roman Rybak
-**Temat:** Konteneryzacja aplikacji Node.js z maksymalną optymalizacją rozmiaru obrazu.
 
 ---
 
